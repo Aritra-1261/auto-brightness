@@ -15,8 +15,8 @@ Auto-Brightness is a Python-based software designed to automatically adjust the 
 
 Install Auto-Brightness on Windows
 
--Download Setup file [Realeses](https://github.com/Aritra-1261/auto-brightness/releases) 
--Run setup.exe
--Enter installation path
--Follow the instructions
+- Download Setup file [Realeses](https://github.com/Aritra-1261/auto-brightness/releases) 
+- Run setup.exe
+- Enter installation path
+- Follow the instructions
     
